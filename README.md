@@ -33,11 +33,9 @@ DataEngineerProj/
 ├── requirements.txt                  # Dependências do projeto Python (Pandas, Requests, etc.)
 ├── .gitignore                        # Ficheiros e pastas ignorados pelo Git
 └── README.md                         # Documentação do projeto (este ficheiro)
+```
 
----
-
-#📊 Dashboard & Insights de Negócio (Power BI)
-
+# 📊 Dashboard & Insights de Negócio (Power BI)
 Os dados processados pelo pipeline foram conectados ao Power BI para extrair valor estratégico alinhado com o mercado de comercialização de energia e soluções renováveis:
 
 Evolução da Temperatura (Máxima vs. Média): Permite identificar com precisão ondas de calor (como o pico registado no final de maio). Para uma comercializadora de energia, estes picos traduzem-se num aumento imediato do consumo elétrico (sistemas de climatização), influenciando a estratégia de previsão de carga e compra de energia.
@@ -45,3 +43,4 @@ Evolução da Temperatura (Máxima vs. Média): Permite identificar com precisã
 Potencial de Radiação Solar Total: Analisa a densidade solar diária. Dias com níveis elevados de radiação indicam uma forte oportunidade para promover soluções de autoconsumo solar (painéis fotovoltaicos) e prever uma maior injeção de energia verde na rede.
 
 KPIs Executivos (Cartões): Destaca no topo do relatório as métricas críticas de controlo — Temperatura Máxima Absoluta registada e o Acumulado de Radiação Solar do período para tomada de decisões rápidas por parte da gestão.
+
